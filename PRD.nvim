@@ -1,0 +1,9 @@
+App converts a pdf to a markdown file.
+
+selects pdf by user,click processing button, shows user message with number of pages to convert and how many done.
+
+saves to /completed folder
+
+written in nextjs
+
+
